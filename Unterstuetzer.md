@@ -30,4 +30,3 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * [Sascha Foerster](http://www.saschafoerster.de)
 * [Christoph Lutz](https://www.researchgate.net/profile/Christoph_Lutz)
 * [Matthias Fromm] (http://www.openscienceradio.de/)
-* 
