@@ -29,3 +29,5 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * Jens Nauber ([SLUB Dresden](http://www.slub-dresden.de))
 * [Sascha Foerster](http://www.saschafoerster.de)
 * [Christoph Lutz](https://www.researchgate.net/profile/Christoph_Lutz)
+* [Matthias Fromm] (http://www.openscienceradio.de/)
+* 
