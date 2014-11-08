@@ -31,3 +31,4 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * [Christoph Lutz](https://www.researchgate.net/profile/Christoph_Lutz)
 * [Matthias Fromm] (http://www.openscienceradio.de/)
 * Andreas Leimbach
+* [Sascha Friesike](http://www.hiig.de/staff/dr-sascha-friesike-2/)
