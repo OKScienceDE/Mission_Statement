@@ -29,6 +29,8 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * Jens Nauber ([SLUB Dresden](http://www.slub-dresden.de))
 * [Sascha Foerster](http://www.saschafoerster.de)
 * [Christoph Lutz](https://www.researchgate.net/profile/Christoph_Lutz)
-* [Matthias Fromm] (http://www.openscienceradio.de/)
+* [Matthias Fromm](http://www.openscienceradio.de/)
 * Andreas Leimbach
+* Thilo Paul-Stüve ([Christian-Albrechts-Universität zu Kiel](http://www.uni-kiel.de))
 * [Sascha Friesike](http://www.hiig.de/staff/dr-sascha-friesike-2/)
+
