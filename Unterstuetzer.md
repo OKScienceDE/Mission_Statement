@@ -30,6 +30,8 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * [Sascha Foerster](http://www.saschafoerster.de)
 * [Christoph Lutz](https://www.researchgate.net/profile/Christoph_Lutz)
 * [Matthias Fromm](http://www.openscienceradio.de/)
+* [Rene König](https://www.renekoenig.eu), ITAS, KIT
+* [Heinz Pampel](http://heinzpampel.de)
 * Andreas Leimbach
 * Thilo Paul-Stüve ([Christian-Albrechts-Universität zu Kiel](http://www.uni-kiel.de))
 * [Prof. Dr. Sascha Friesike](http://www.hiig.de/staff/dr-sascha-friesike-2/)
