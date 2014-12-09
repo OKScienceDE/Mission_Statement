@@ -23,7 +23,6 @@ Statement unterstützt, kann sich hier namentlich eintragen:
 * [Benedikt Fecher](http://www.hiig.de/staff/benedikt-fecher/)
 * [Marcel Hebing](http://www.marcelhebing.de)
 * [Lambert Heller](http://biblionik.de/about-me/)
-* [Stefan Kasberger](http://www.openscienceasap.org)
 * Andreas E. Neuhold
 * Felix Lohmeier ([SLUB Dresden](http://www.slub-dresden.de))
 * Jens Nauber ([SLUB Dresden](http://www.slub-dresden.de))
